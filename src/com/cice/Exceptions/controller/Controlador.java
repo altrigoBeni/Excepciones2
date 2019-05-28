@@ -8,7 +8,7 @@ public class Controlador {
 	private MetodosOperaciones operaciones = new MetodosOperaciones();
 	public static final String DIVISION = "division";
 	public static final String MULTIPLICACION = "multiplicacion";
-	public static final String SUMAR = "suma";
+	public static final String SUMAR = "sumar";
 	public static final String RESTAR = "restar";
 	
 	
